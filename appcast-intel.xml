@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>ViTol</title>
+        <item>
+            <title>5.0.27</title>
+            <pubDate>Tue, 20 Oct 2026 19:36:52 +0300</pubDate>
+            <sparkle:version>527</sparkle:version>
+            <sparkle:shortVersionString>5.0.27</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://victormertoncorp-eng.github.io/vitol-updates/ViTol_5.0.27_macOS_Intel.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/victormertoncorp-eng/vitol-updates/releases/download/v5.0.27/ViTol_5.0.27_macOS_Intel.zip" length="492121355" type="application/octet-stream" sparkle:edSignature="T+VX7lyTS5VRUxtN+hYDif92dwZNUVVryR9Z+qiLkJljbNEeHVJHk2bw9zTafSWEhIJ/FIAGCchYSOzDp5T+Aw=="/>
+        </item>
+    </channel>
+</rss>

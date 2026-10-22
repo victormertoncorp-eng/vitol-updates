@@ -2,6 +2,8 @@
 
 [Скачать актуальный выпуск ViTol](https://github.com/victormertoncorp-eng/vitol-updates/releases/latest)
 
+[Архив предыдущих версий для Mac — 46 выпусков](https://github.com/victormertoncorp-eng/vitol-updates/blob/main/ARCHIVE.md)
+
 На странице выпуска выберите файл для своего Mac:
 
 - **Apple Silicon (M1 и новее):** файл с `AppleSilicon` в названии.

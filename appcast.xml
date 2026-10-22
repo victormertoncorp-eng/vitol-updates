@@ -3,6 +3,16 @@
     <channel>
         <title>ViTol</title>
         <item>
+            <title>5.0.33</title>
+            <pubDate>Thu, 22 Oct 2026 23:31:53 +0300</pubDate>
+            <sparkle:version>533</sparkle:version>
+            <sparkle:shortVersionString>5.0.33</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink>https://victormertoncorp-eng.github.io/vitol-updates/ViTol_5.0.33_macOS_AppleSilicon.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/victormertoncorp-eng/vitol-updates/releases/download/v5.0.33/ViTol_5.0.33_macOS_AppleSilicon.zip" length="480344577" type="application/octet-stream" sparkle:edSignature="4labajucmRuXIfPBdESeodgzqirgV3CRprHWyz91roxuLi59dYNBxjQErXuBzXRqyAa/bSlcqmsPOevTF7oGDw=="/>
+        </item>
+        <item>
             <title>5.0.32</title>
             <pubDate>Thu, 22 Oct 2026 10:00:42 +0300</pubDate>
             <sparkle:version>532</sparkle:version>
@@ -21,16 +31,6 @@
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <sparkle:releaseNotesLink>https://victormertoncorp-eng.github.io/vitol-updates/ViTol_5.0.30_macOS_AppleSilicon.md</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/victormertoncorp-eng/vitol-updates/releases/download/v5.0.30/ViTol_5.0.30_macOS_AppleSilicon.zip" length="480315471" type="application/octet-stream" sparkle:edSignature="pErjA9ENxqRa5QmA8MGamAcuNcVQXfhA1Lk6TzPRoVCkSb/8LSyBnhDdABtNE95ac9p9Z3a1lPlotSBKWyOJAA=="/>
-        </item>
-        <item>
-            <title>5.0.27</title>
-            <pubDate>Tue, 20 Oct 2026 19:35:33 +0300</pubDate>
-            <sparkle:version>527</sparkle:version>
-            <sparkle:shortVersionString>5.0.27</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <sparkle:releaseNotesLink>https://victormertoncorp-eng.github.io/vitol-updates/ViTol_5.0.27_macOS_AppleSilicon.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/victormertoncorp-eng/vitol-updates/releases/download/v5.0.27/ViTol_5.0.27_macOS_AppleSilicon.zip" length="473354528" type="application/octet-stream" sparkle:edSignature="RqDPxQgEJ7wZBAmVMhJG2/nap9W08gljs6OJ7hEfJAd30ZJguFI+2tzkP+p6gmi1AlpIh1z6upWNGrOqP5A+Cg=="/>
         </item>
         <item>
             <title>5.0.26</title>

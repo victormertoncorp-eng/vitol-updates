@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "channels": {
+    "stable": {
+      "arm64": {
+        "version": "5.0.34",
+        "buildNumber": "534",
+        "architecture": "arm64",
+        "channel": "stable",
+        "minimumMacOS": "12.0",
+        "status": "available",
+        "artifacts": [
+          {
+            "name": "ViTol_5.0.34_macOS_AppleSilicon.zip",
+            "url": "https://github.com/victormertoncorp-eng/vitol-updates/releases/download/v5.0.34/ViTol_5.0.34_macOS_AppleSilicon.zip",
+            "size": 480392108,
+            "sha256": "a96a9f10490500cccfc2d5022f3c199b189d804a3c72cd35b0dba57d87633120",
+            "kind": "archive"
+          },
+          {
+            "name": "ViTol_5.0.34_macOS_AppleSilicon_Offline.pkg",
+            "url": "https://github.com/victormertoncorp-eng/vitol-updates/releases/download/v5.0.34/ViTol_5.0.34_macOS_AppleSilicon_Offline.pkg",
+            "size": 327222208,
+            "sha256": "b296390277901d10d6c76032ff4dbb4ebb46374643d1e84d5d2e741abee83602",
+            "kind": "installer"
+          }
+        ],
+        "releaseTag": "v5.0.34",
+        "phasedRolloutInterval": 0
+      }
+    },
+    "beta": {}
+  }
+}
